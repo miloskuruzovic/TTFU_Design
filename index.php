@@ -214,6 +214,7 @@
   </div>
   </div>
 </div>
+<!-- Contact container -->
 <div class="container text-center contact" id="Kontakt">
   <h2>
     <span class="highlight-red"><i class="fa fa-address-book-o" aria-hidden="true"></i></i></span>
