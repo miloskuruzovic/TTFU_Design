@@ -1,0 +1,3 @@
+<p id="p1"><span class="modern">SEO optimizacija,</span> <span class="google-red">Google AdWords</span> i <span class="facebook-blue">Facebook</span> reklamiranje</p>
+<p id="p2">Izrada <span class="gold">unikatnih</span> web sajtova, kreiranih prema <span class="modern">Vašim</span> potrebama</p>
+<p id="p3"><span class="modern">Moderan</span> web dizajn prilagođen <span class="gold">svim vrstama</span> uređaja</p>
